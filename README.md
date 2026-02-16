@@ -18,7 +18,7 @@
 Open source developer passionate about making AI accessible to everyone.
 
 - 💼 **Software Engineering Intern @ AMD**
-- 🚀 Working on [Lemonade SDK](https://github.com/lemonade-sdk/lemonade)
+- 🚀 Working on [Lemonade SDK](https://github.com/lemonade-sdk/lemonade) — Open-source local AI platform for running LLMs, image generation & speech on your own GPU/NPU
 - 🤝 Collaborating on open source AI projects
 
 ---
