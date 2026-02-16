@@ -27,18 +27,6 @@ Open source developer passionate about making AI accessible to everyone.
 
 [![arXiv: Universal Conditional Logic](https://img.shields.io/badge/arXiv-2601.00880-FF6F61?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.00880)
 
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antmikinka&show_icons=true&count_private=true&theme=dark&title_color=4A90E2&icon_color=4A90E2)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antmikinka&layout=compact&langs_count=8&theme=dark&title_color=4A90E2)
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=antmikinka&theme=dark&border_radius=4" alt="GitHub Streak" height="180px"/>
-</div>
 
 ---
 
