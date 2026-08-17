@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6F61,100:4A90E2&text=Hi,%20I'm%20Anthony%20Mikinka&fontColor=ffffff&desc=AMD%20Intern%20•%20AI%20Developer%20•%20Open%20Source&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6F61,100:4A90E2&text=Hi,%20I'm%20Anthony%20Mikinka&fontColor=ffffff&desc=Ex%20AMD%20Intern%20•%20AI%20Developer%20•%20Open%20Source&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/antmikinka?style=for-the-badge&color=4A90E2&label=Followers)](https://github.com/antmikinka?tab=followers)
@@ -9,13 +9,14 @@
 
 ## About Me
 
-**Building the future of local AI at AMD**
+**Building local-first AI and agent systems**
 
 Open source developer passionate about making AI accessible to everyone.
 
-- 💼 **Software Engineering Intern @ AMD**
-- 🚀 Working on [Lemonade SDK](https://github.com/lemonade-sdk/lemonade) — Open-source local AI platform for running LLMs, image generation & speech on your own GPU/NPU
-- 🤝 Collaborating on open source AI projects
+- 🎓 **B.S. Data Science @ Arizona State University** (expected May 2027)
+- 💼 **Ex Software Engineering Intern @ AMD** (Jan–Aug 2026)
+- 🚀 Built [Lemonade Interviewer](https://github.com/lemonade-sdk/lemonade) for AMD's Lemonade SDK — open-source local AI platform for running LLMs, image generation & speech on your own GPU/NPU
+- 🤝 Open source AI, edge inference, and agent orchestration
 
 ---
 
@@ -47,6 +48,7 @@ Open source developer passionate about making AI accessible to everyone.
 ## Connect
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/anthonymikinka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-mikinka)
 
 ---
 
